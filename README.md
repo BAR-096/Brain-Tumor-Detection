@@ -13,6 +13,7 @@ A deep learning-based project for classifying brain tumors from MRI images using
 
 ### Prerequisites
 - Python 3.8+
+- venv
 - TensorFlow / Keras
 - Flask
 - OpenCV, NumPy, scikit-learn
